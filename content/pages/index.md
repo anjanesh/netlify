@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: This is AnjaneshLekshminarayanan
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### Experimenting with Netlify and Stackbit.'
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
