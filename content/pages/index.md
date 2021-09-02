@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: AnjaneshLekshminarayanan
+    title: This is AnjaneshLekshminarayanan
     subtitle: '### This is a super-cool hero subhead.'
     image: images/avatar.png
     image_alt: Author avatar
